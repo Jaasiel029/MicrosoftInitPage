@@ -110,7 +110,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: none;
   }
   
   .main-carousel h1 {
@@ -265,7 +265,7 @@
   }
   
   .footer-column ul li a {
-    font-size: 11px;
+    font-size: 15px;
     color: #616161;
   }
   
